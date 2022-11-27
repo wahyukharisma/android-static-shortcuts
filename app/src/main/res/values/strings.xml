@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StaticShortcutSampleApplication</string>
+    <string name="shortuct_one">Detail One</string>
+    <string name="shortuct_two">Detail Two</string>
+</resources>
